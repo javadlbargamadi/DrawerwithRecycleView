@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Drawer with RecycleView</string>
-
+    <string name="Task1"> Task 1 </string>
+    <string name="Task2"> Task 2-1 </string>
+    <string name="Task3"> Task 2-2 </string>
 
 </resources>
